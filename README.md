@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shaharyaransari
-- 👀 I’m interested in web development.
 - 🌱 I'm Expert Wordpress Developer. I can Create Custom Wordpress Plugins and Themes.
 - 💞️ I am Learning MERN Stack
 
