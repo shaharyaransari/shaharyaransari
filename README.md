@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaharyaransari
 - 👀 I’m interested in web development.
-- 🌱 I'm Expert in Wordpress and php. I am currently learning node js.
-- 💞️ I’m looking to collaborate on node projects
+- 🌱 I'm Expert Wordpress Developer. I can Create Custom Wordpress Plugins and Themes.
+- 💞️ I am Learning MERN Stack
 
 
 <!---
